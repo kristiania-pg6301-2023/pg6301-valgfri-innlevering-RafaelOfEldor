@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.list-element-div {
+  display: flex;
+  gap: 10px;
+  width: 600px;
+  font-size: 2rem;
+  margin-left: 50vw;
+  justify-content: center;
+  transform: translate(-50%, -50%);
+}
+
+.list-element-div > button {
+  width: 100px;
+}
+
+.goals-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.show-edit-div {
+  display: flex;
+  margin-top: 10px;
+  width: 300px;
+  justify-content: space-around;
+  margin-left: 50vw;
+  transform: translate(-50%, -50%);
+}
+.show-edit-div > input {
+  height: 50px;
+  width: 150px;
+}
+
+.title-div {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  margin-left: 50vw;
+  transform: translate(-50%);
+}
