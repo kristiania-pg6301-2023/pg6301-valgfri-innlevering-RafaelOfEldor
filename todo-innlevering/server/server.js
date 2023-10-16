@@ -11,16 +11,8 @@ export const goalsApi = express.Router();
 let TASKS = [
   {
     id: 1,
-    goal: "Running",
-  },
-  {
-    id: 2,
-    goal: "why tho",
-  },
-  {
-    id: 3,
-    goal: "yeaaahhh",
-  },
+    goal: "Example goal #1",
+  }
 ];
 
 app.get("/api/tasks", (req, res) => {

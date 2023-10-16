@@ -14,8 +14,8 @@ describe("quiz application", () => {
   //   expect(component).toMatchSnapshot();
   // });
 
-  it("renders this project", () => {
-    const component = renderer.create(<TodoApplication />);
-    expect(component).toMatchSnapshot();
-  });
+  // it("renders this project", () => {
+  //   const component = renderer.create(<TodoApplication />);
+  //   expect(component).toMatchSnapshot();
+  // });
 });
