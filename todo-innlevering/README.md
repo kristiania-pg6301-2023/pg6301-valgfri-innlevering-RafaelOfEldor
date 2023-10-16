@@ -2,9 +2,13 @@
 
 
 Heroku link:
+
+
 Waiting for heroku student validation so i can use classroom repo as source. Should get it within 24hr.
 
-TODO (Pun intended): 
+TODO (Pun intended):
+
+
 Add mongoDB
 fix frontend testing
 deploy to heroku (prob gonna have to extract "todo-innlevering" folder content to src for build to work)
