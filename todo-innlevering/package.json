@@ -38,7 +38,7 @@
     "check:typescript": "npm run check:typescript:client",
     "check:typescript:client": "cd client && npm run check:typescript",
     "test": "npm run test:client && npm run test:server",
-    "test:client": "cd client && npm test",
+    "test:client": "cd client && npm test --include=dev",
     "test:server": "cd server && npm test"
   }
 }

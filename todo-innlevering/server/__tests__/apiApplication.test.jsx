@@ -9,6 +9,7 @@ app.use(goalsApi);
 
 let expectedJson = [
   {
+    _id: '652de23c852d66f1eb9246ff',
     id: 1,
     goal: "Example goal #1",
   }
@@ -16,7 +17,7 @@ let expectedJson = [
 
 describe("Goals Api", () => {
   it("returns list of goals", async () => {
-    await request(app).get("/api/tasks").expect(expectedJson);
+    const res = await request(app).get("/api/tasks").expect(expectedJson);
   });
 
   it("can add a goal", async () => {
@@ -36,4 +37,15 @@ describe("Goals Api", () => {
     expect(res.status).toBe(200);
     expect(res.body.map((m) => m.goal)).toContain(goal);
   });
+
+  it("can delete a goal", async () => {
+    const id = 2
+    const goal = "My posted goal";
+    await request(app).delete(`/api/tasks/${id}`).send().expect(204);
+    const res = await request(app).get("/api/tasks");
+    expect(res.status).toBe(200);
+    expect(res.body.map((m) => m.goal)).not.toContain(goal);
+  });
+
+  
 });

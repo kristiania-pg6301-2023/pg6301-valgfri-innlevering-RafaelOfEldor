@@ -42,7 +42,7 @@
 183C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\csso\node_modules\css-tree\lib\syntax\scope\value.js133413694316859981 0
 164C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\typescript\lib\lib.webworker.d.ts133415730823164626 0
 168C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\posthtml\node_modules\posthtml-parser133419211412111736 1
-122C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\dist133419230782835158 1
+122C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\dist133419749906570225 1
 161C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\@types\node\ts4.8\console.d.ts133419199588953470 0
 162C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\caniuse-lite\data\regions\BA.js133413694312625840 0
 142C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\@istanbuljs133419171530890795 1
@@ -104,7 +104,7 @@
 153C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\js-tokens\package.json133413694299854755 0
 130C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\package.json133419204100472008 0
 190C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\@babel\types\lib\modifications\prependToMemberExpression.js133419093025040300 0
-137C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\TodoApplication.tsx133419204100661551 0
+137C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\TodoApplication.tsx133419775749592181 0
 151C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\chalk\source\util.js133413694301400631 0
 180C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\@babel\types\lib\clone\cloneDeepWithoutLoc.js.map133419093024282330 0
 173C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\csso\node_modules\css-tree\dist\version.js133413694316879930 0
@@ -145,7 +145,7 @@
 183C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\css-select\lib\esm\pseudo-selectors\aliases.d.ts.map133413694308242328 0
 199C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\function133419211308217848 1
 206C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo\package.json133413694309110004 0
-152C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\__tests__\todoApplication.test.jsx133419220930098682 0
+152C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\__tests__\todoApplication.test.jsx133419662834817602 0
 164C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\@types\istanbul-reports\README.md133419199587896320 0
 179C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\@babel\types\lib\validators\isValidIdentifier.js133419093025429263 0
 170C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\@swc\helpers\cjs\_iterable_to_array.cjs133413694312925047 0
@@ -1817,7 +1817,7 @@
 164C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\css-tree\lib\syntax\config\mix.js133413694316530862 0
 179C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\@babel\compat-data\data\overlapping-plugins.json133419093023733811 0
 150C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\csso\cjs\syntax.cjs133413694308860674 0
-144C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\dist\index.7b5a4fff.js.map133419230782825186 0
+144C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\dist\index.7b5a4fff.js.map133419749906560254 0
 162C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\@parcel\utils\test\input\config133419211333027218 1
 158C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\svgo\plugins\removeTitle.js133413694312725577 0
 171C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\csso\node_modules\css-tree\dist\data.cjs133413694308651230 0
@@ -4165,7 +4165,7 @@
 173C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\css-tree\lib\syntax\function\expression.js133413694316161855 0
 166C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\css-tree\lib\syntax\function\var.js133413694316939768 0
 170C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\css-tree\lib\syntax\config\generator.js133413694316201741 0
-141C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\dist\index.9e4c6fd2.css133419230782102770 0
+141C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\dist\index.9e4c6fd2.css133419749871883368 0
 191C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\@parcel\node-resolver-core\parcel-resolver.darwin-arm64.node133413694307992993 0
 176C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\css-tree\lib\syntax\config\parser-selector.js133413694316630595 0
 176C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\caniuse-lite\data\features\offscreencanvas.js133413694320789476 0
@@ -7277,7 +7277,7 @@
 182C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\@babel\types\lib\converters\toSequenceExpression.js133419093024651347 0
 182C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\@babel\highlight\node_modules\color-convert\LICENSE133413694301899291 0
 173C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\@babel\types\lib\converters\toStatement.js133419093024661323 0
-140C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\dist\index.7b5a4fff.js133419230782765343 0
+140C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\dist\index.7b5a4fff.js133419749906480455 0
 177C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\@babel\types\lib\converters\valueToNode.js.map133419093024691239 0
 170C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\@babel\types\lib\constants\index.js.map133419093024501747 0
 170C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\@babel\types\lib\comments\addComment.js133419093024342171 0
@@ -7635,5 +7635,5 @@
 158C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\node_modules\.bin\update-browserslist-db133413694323462273 0
 140C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\dist\index.3124d30c.js133419189122542670 0
 140C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\dist\index.6fa4ea68.js133415751854368811 0
-145C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\dist\index.9e4c6fd2.css.map133419230782142666 0
-133C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\dist\index.html133419230782446199 0
+145C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\dist\index.9e4c6fd2.css.map133419749871913290 0
+133C:\Users\Letri\OneDrive\Skrivebord\Web-and-api-study\pg6301-valgfri-innlevering-RafaelOfEldor\todo-innlevering\client\dist\index.html133419749872401996 0
