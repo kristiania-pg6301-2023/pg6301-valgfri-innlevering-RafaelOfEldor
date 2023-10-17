@@ -33068,7 +33068,7 @@ function TodoApplication() {
     _s();
     const [goals, setGoals] = (0, _react.useState)([]);
     async function loadTasks() {
-        const res = await fetch("/api/tasks");
+        const res = await fetch("api/tasks");
         setGoals(await res.json());
     }
     console.log(goals);

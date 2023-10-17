@@ -12,7 +12,7 @@ export default function TodoApplication() {
   const [goals, setGoals] = useState<ListElementsitem[]>([]);
 
   async function loadTasks() {
-    const res = await fetch("/api/tasks");
+    const res = await fetch("api/tasks");
     setGoals(await res.json());
   }
 

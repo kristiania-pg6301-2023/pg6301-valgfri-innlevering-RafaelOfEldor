@@ -1,11 +1,11 @@
 import request from "supertest";
 import express from "express";
-import { goalsApi } from "../server.js";
+import { testGoalsApi } from "../server.js";
 import bodyParser from "body-parser";
 
 const app = express();
 app.use(bodyParser.json());
-app.use(goalsApi);
+app.use(testGoalsApi);
 
 let expectedJson = [
   {
@@ -23,7 +23,7 @@ describe("Goals Api", () => {
   it("can add a goal", async () => {
     const id = 2
     const goal = "My posted goal";
-    await request(app).post("/api/tasks").send({ id, goal }).expect(204);
+    await request(app).post("/api/tasks").send({ id, goal}).expect(204);
     const res = await request(app).get("/api/tasks");
     expect(res.status).toBe(200);
     expect(res.body.map((m) => m.goal)).toContain(goal);
