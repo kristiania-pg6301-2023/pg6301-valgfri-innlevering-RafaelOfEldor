@@ -9,10 +9,10 @@ app.use(testGoalsApi);
 
 let expectedJson = [
   {
-    _id: '652de23c852d66f1eb9246ff',
+    _id: "652de23c852d66f1eb9246ff",
     id: 1,
     goal: "Example goal #1",
-  }
+  },
 ];
 
 describe("Goals Api", () => {
@@ -21,9 +21,9 @@ describe("Goals Api", () => {
   });
 
   it("can add a goal", async () => {
-    const id = 2
+    const id = 2;
     const goal = "My posted goal";
-    await request(app).post("/api/tasks").send({ id, goal}).expect(204);
+    await request(app).post("/api/tasks").send({ id, goal }).expect(204);
     const res = await request(app).get("/api/tasks");
     expect(res.status).toBe(200);
     expect(res.body.map((m) => m.goal)).toContain(goal);
@@ -39,13 +39,11 @@ describe("Goals Api", () => {
   });
 
   it("can delete a goal", async () => {
-    const id = 2
+    const id = 2;
     const goal = "My posted goal";
     await request(app).delete(`/api/tasks/${id}`).send().expect(204);
     const res = await request(app).get("/api/tasks");
     expect(res.status).toBe(200);
     expect(res.body.map((m) => m.goal)).not.toContain(goal);
   });
-
-  
 });
